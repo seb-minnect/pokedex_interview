@@ -68,4 +68,5 @@ dependencies {
 
     // Image loading (Choose one)
     implementation(libs.glide)
+    implementation(libs.koin)
 }
